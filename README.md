@@ -101,13 +101,3 @@ Based on the analysis:
 ## 📈 Business Impact
 Implementing these recommendations can **reduce churn by 20–30%**, directly improving recurring revenue and customer lifetime value.
 
----
-
-## 📜 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgements
-- Data source: (Add dataset credit if applicable)
-- Inspired by real-world telecom churn case studies.
