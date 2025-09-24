@@ -12,7 +12,7 @@ Identify the most significant factors influencing customer churn and recommend d
 ---
 
 ## 🗂️ Dataset
-- **Source**: (Add your dataset source or link here)  
+- **Source**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn 
 - **Size**: (e.g., ~7,000 records, 20+ features)  
 - **Key Features**: Customer demographics, account details, payment method, contract type, internet service type, and churn label.
 
